@@ -12,6 +12,11 @@ jobs:
 
     runs-on: ubuntu-latest
 
+     permissions:
+      actions: write
+      contents: write
+      security-events: write
+
     strategy:
       matrix:
         node-version: [16.x]
