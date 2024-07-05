@@ -72,7 +72,7 @@ On Debian or Ubuntu, run `sudo apt install build-essential`.  It should just wor
 - To start the demos run `npm start`
 - Visit `http://localhost:1234/<demo-name.html>`
 
-# Use it ： 
+# Use
 
 **Basic Renderer**
 
