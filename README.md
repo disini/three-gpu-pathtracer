@@ -1,5 +1,7 @@
 # three-gpu-pathtracer
 
+
+
 [![npm version](https://img.shields.io/npm/v/three-gpu-pathtracer.svg?style=flat-square)](https://www.npmjs.com/package/three-gpu-pathtracer)
 [![build](https://img.shields.io/github/actions/workflow/status/disini/three-gpu-pathtracer/node.js.yml?style=flat-square&label=build&branch=main)](https://github.com/disini/three-gpu-pathtracer/actions)
 [![github](https://flat.badgen.net/badge/icon/github?icon=github&label)](https://github.com/disini/three-gpu-pathtracer/)
@@ -7,6 +9,9 @@
 [![sponsors](https://img.shields.io/github/sponsors/disini?style=flat-square&color=1da1f2)](https://github.com/sponsors/disini/)
 
 ![](https://user-images.githubusercontent.com/734200/162287477-96696b18-890b-4c1b-8a73-d662e577cc48.png)
+
+##Forked from https://github.com/gkjohnson/three-gpu-pathtracer
+
 
 Path tracing project using [three-mesh-bvh](https://github.com/disini/three-mesh-bvh) and WebGL 2 to accelerate high quality, physically based rendering on the GPU. Features include support for GGX surface model, material information, textures, normal maps, emission, environment maps, tiled rendering, and more!
 
