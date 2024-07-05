@@ -104,6 +104,6 @@ dist
 .tern-port
 
 .parcel-cache
-example/dev-bundle
+# example/dev-bundle
 .vscode/
 screenshots/current/
